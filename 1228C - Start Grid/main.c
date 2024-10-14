@@ -41,14 +41,8 @@
     }
   }
 
-  arrayUltrapassagens[k] = ultrapassagens;
-  k++;
+printf("%d\n", ultrapassagens);
+
     }
-
-
-
-  for(int i = 0; i < 3; i++){
-      printf("%i\n", arrayUltrapassagens[i]);
-  } 
     return 0;
   }
